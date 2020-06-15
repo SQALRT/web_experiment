@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let con;
+    con = confirm('你喜欢玫瑰花吗？')
+    if(con===true)alert("非常喜欢");
+    else alert("不喜欢")
+</script>
+<script>
+    let person=prompt("请输入你的名字","Harry Potter");
+    if (person!=null && person!=="")
+    {
+        x="你好 " + person + "! 今天感觉如何?";
+        document.getElementById("demo").innerHTML=x;
+    }
+</script>
+<script language="javascript">
+    function delcfm() {
+        if (!confirm("确认要删除？")) {
+            window.event.returnValue = false;
+        }
+    }
+</script>
+<form action="p235.html" target="_blank" method="get">
+    <input name="" type="submit" value="删除" onClick="delcfm()" />
+</form>
+</body>
+</html>

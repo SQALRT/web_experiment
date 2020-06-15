@@ -1,0 +1,18 @@
+body {
+    background-image: url('10.jpg');
+}
+
+.base {
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    width: 70%;
+    position: relative;
+    margin: 50px 200px;
+}
+
+.ex h2 {
+    padding: 0px 45px;
+}
+
+.ex p {
+    padding: 10px 90px;
+}

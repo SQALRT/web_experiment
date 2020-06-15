@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>个人主页</title>
+</head>
+<body>
+<!--<img width="100%" height="100%" src="photo-1476616853026-24c1f0309646.jpg" style="position:absolute; left:0; top:0; z-index:-1;"/>-->
+    <div id="container">
+        <div id="banner">
+            <img src="下载.jpg" width="100%" height="120px" border="0px">
+        </div>
+        <div id="links">
+            <ul>
+                <li>首页</li>
+                <li>心情日记</li>
+                <li>Free</li>
+                <li>一起走到</li>
+                <li>从明天起</li>
+                <li>纸飞机</li>
+                <li>下一站</li>
+            </ul>
+            <br>
+        </div>
+<!--        <div>-->
+        <div class="left">
+            <img src="1.jpg" alt="">
+            <p>秋天过半的时候，我搭上了一列火车，我不知道它讲去往的方向。
+            我不知道它将要去往的方向，那题录看上去无休无止地延申着</p>
+            <img src="1.jpg" alt="">
+            <p>秋天过半的时候，我搭上了一列火车，我不知道它讲去往的方向。
+                我不知道它将要去往的方向，那题录看上去无休无止地延申着</p>
+        </div>
+        <div class="right">
+            <img src="2.jpg" alt="">
+            <p>柳絮飞舞了，榆钱飘落了，蝴蝶和落在地上的油菜花瓣依依惜别，豌豆花变成了肥绿的嫩荚。
+                就连那马路两旁人行道上的树木，不久以前，
+                它们还是光秃秃地兀立在寒风中，现在也都绽出了嫩芽，
+                披上了绿装，兴高采烈地迎着行人,倾吐着浓郁的春天气息。 </p>
+        </div>
+<!--        </div>-->
+        <div id="footer">版权所有 2006.12.7 Next Station</div>
+    </div>
+</body>
+</html>
+<style>
+    body,html {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        background: #e9fbff;
+    }
+    #container {
+        position: relative;
+        margin: 0 auto;
+        padding: 0px;
+        text-align: left;
+        background: url(photo-1476616853026-24c1f0309646.jpg);
+        background-size: 100% 100%;
+        /*background-repeat:no-repeat;*/
+        width: 100%;
+        height: 100%;
+    }
+
+    #banner {
+        margin: 0px; padding: 0px;
+    }
+    #links {
+        height: 50px;
+        font-size: 16px;
+        background-color: gray;
+        margin: -20px 0px 0px 0px;
+        border: 0;
+        padding: 0px;
+        position: relative;
+    }
+    #links ul {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #links li {
+        list-style-type:none;
+        float: left;
+        margin: 20px;
+    }
+    .left{
+        float:left;
+        width: 300px;
+        height: 800px;
+        background-color: #D3D3D3;
+    }
+
+    .right{
+        margin-left: 310px;
+        height: 800px;
+        /*background-color: blue;*/
+    }
+
+</style>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let t = null;
+    t = setTimeout(time,1000);//开始执行
+    function time()
+    {
+        clearTimeout(t);//清除定时器
+        let dt = new Date();
+        let h=dt.getHours();//获取时
+        let m=dt.getMinutes();//获取分
+        let s=dt.getSeconds();//获取秒
+        document.getElementById("showTime").innerHTML =  "现在的时间为："+h+"时"+m+"分"+s+"秒";
+        t = setTimeout(time,1000); //设定定时器，循环执行
+    }
+</script>
+<label id="showTime"></label>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<!--    <script type="text/javascript" src="p268.js"></script>-->
+</head>
+<body>
+<script>
+    let arrayObj = [];
+    let i = 0;
+    for(i;i<10;i++){
+        arrayObj.push(i);
+    }
+    del_value = arrayObj.splice(1,1);
+    document.write('数组原素'+'</br>')
+    for(let i=0;i<arrayObj.length;i++){
+        document.write(arrayObj[i]+'</br>')
+    }
+    document.write('删除的元素'+del_value[0]+'</br>')
+</script>
+
+<script>
+    let str1 = "广州大学华软软件学院";
+    document.writeln('原字符串:'+str1+'</br>');
+    let str2 = str1.replace(str1,"JavaScript编程语言");
+    document.writeln('现字符串:'+str2+'</br>');
+</script>
+</body>
+</html>

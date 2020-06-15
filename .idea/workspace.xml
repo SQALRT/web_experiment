@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c8e776-d1ae-42d2-adc6-0932043f07e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpviZH3nvy9duRFixFnlJdRJXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex7" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\All Codes\JavaScript\作业" />
+      <recent name="E:\All Codes\JavaScript\作业\ex1" />
+      <recent name="E:\All Codes\JavaScript\作业\ex7" />
+      <recent name="E:\All Codes\JavaScript\作业\ex9" />
+      <recent name="E:\All Codes\JavaScript\作业\ex8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\All Codes\JavaScript\作业\ex7" />
+      <recent name="E:\All Codes\JavaScript\作业\ex3" />
+      <recent name="E:\All Codes\JavaScript\作业\ex5" />
+      <recent name="E:\All Codes\JavaScript\作业" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="p268.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex9/p268.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.p268.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c8e776-d1ae-42d2-adc6-0932043f07e2" name="Default Changelist" comment="" />
+      <created>1585548977822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585548977822</updated>
+      <workItem from="1585548980449" duration="8351000" />
+      <workItem from="1585626770654" duration="888000" />
+      <workItem from="1586762589371" duration="4043000" />
+      <workItem from="1587344842426" duration="8057000" />
+      <workItem from="1587889192028" duration="18217000" />
+      <workItem from="1587910200099" duration="156000" />
+      <workItem from="1587948028087" duration="6723000" />
+      <workItem from="1589156795342" duration="9593000" />
+      <workItem from="1589762277704" duration="6199000" />
+      <workItem from="1590463883067" duration="2326000" />
+      <workItem from="1592218021727" duration="4996000" />
+      <workItem from="1592224807014" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1587347117844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587347117843" />
+    <state width="936" height="260" key="GridCell.Tab.0.bottom" timestamp="1589768547886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589768547886" />
+    <state width="936" height="260" key="GridCell.Tab.0.center" timestamp="1589768547886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589768547886" />
+    <state width="936" height="260" key="GridCell.Tab.0.left" timestamp="1589768547886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589768547886" />
+    <state width="936" height="260" key="GridCell.Tab.0.right" timestamp="1589768547886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589768547886" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1589156837680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589156837680" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589764982634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589764982634" />
+  </component>
+</project>

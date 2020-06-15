@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function fcolor() {
+            var obj = window.event.srcElement;
+            form1.select.style.color = obj.options[obj.selectedIndex].value;
+
+        }
+    </script>
+</head>
+<body>
+
+<form id="form1" name="form1" method="post" action="">
+    <label >
+        <input type="text" name="textfield" value="java">
+    </label>
+    <label for="">
+        <select name="select" onchange="fcolor()">
+            <option value="black">黑</option>
+            <option value="red">红</option>
+            <option value="yellow">黄</option>
+            <option value="blue">蓝</option>
+            <option value="green">绿</option>
+        </select>
+    </label>
+</form>
+</body>
+</html>

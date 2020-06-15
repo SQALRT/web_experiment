@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="">
+        <table border="1" id="table1" >
+            <tr>
+                <td colspan="4">产品订购</td>
+            </tr>
+            <tr>
+                <td>
+                    <label>姓名：</label>
+                </td>
+                <td>
+                    <input style="height: 100%;width: 99%" type="text" name="name">
+                </td>
+                <td>
+                    <label>商品名称：</label>
+                </td>
+                <td>
+                    <input style="height: 100%;width: 99%" type="text" name="pname"><br>
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        <label>地区：</label>
+                    </td>
+                    <td>
+                        <select name="area">
+                            <option value="guangzhou">广州</option>
+                            <option value="shenzhen">深圳</option>
+                            <option value="shanghai">上海</option>
+                        </select>
+                    </td>
+                    <td>
+                        <label>付款方式：</label>
+                    </td>
+                    <td>
+                        <input type="radio" name="pay_type"value="internet">网上
+                        <input type="radio" name="pay_type"value="post">邮局
+                        <input type="radio" name="pay_type"value="bank">银行
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>关注产品：</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="checkbox" value="hufu">护肤品
+                        <input type="checkbox" value="huazhuang">化妆品
+                        <input type="checkbox" value="fuzhuang">服装
+                        <input type="checkbox" value="dianqi">电器
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>联系电话：</label>
+                    </td>
+                    <td colspan="3">
+                        <input style="height: 100%;width: 99%" type="text" name="pname"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label >备注：</label>
+                    </td>
+                    <td colspan="3">
+                        <textarea id="beizhu" cols="70" rows="10"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <button type="submit">提交</button>
+                        <button type="reset">重置</button>
+                    </td>
+                </tr>
+        </table>
+    </form>
+</body>
+</html>
+
+<style>
+    #table1 {
+        text-align: center;
+    }
+    #beizhu {
+        width: 99%;
+        height: 100%;
+    }
+</style>
